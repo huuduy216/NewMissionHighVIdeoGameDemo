@@ -1,4 +1,4 @@
-# Dodge the Creeps
+# This is a modified verson of the original Dodge the Creeps demo by Godot serve as a demo purpose for highschool student at New Mission Highschool
 
 This is a simple game where your character must move
 and avoid the enemies for as long as possible.
